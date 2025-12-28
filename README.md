@@ -26,6 +26,18 @@ Using arrays reduces code repetition and improves program readability.
 - Arrays provide fast access to stored data
 
 
+## Why Arrays are Important in C#
+Arrays are widely used in real-world applications because they:
+- Simplify data management
+- Improve program performance
+- Reduce memory usage
+- Make code more structured and readable
+
+Arrays are commonly used to store:
+- Student marks
+- Lists of numbers
+- Names or records
+- Tabular and structured data
 
 
 
