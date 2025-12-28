@@ -94,10 +94,12 @@ This project provides a strong foundation for learning and applying arrays in re
 
 ---
 # Author
-Eman Shafiq
-2024-ag-9521
-BS Artificial Intelligence
+- Eman Shafiq
+- 2024-ag-9521
+- BS Artificial Intelligence
 
+
+Added full theory and documentation for C# Arrays
 
 
 
