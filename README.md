@@ -61,7 +61,16 @@ Typical use cases:
 - Timetables
 - Grid-based data
 
+# Code Examples
+This repository includes three practical C# examples to demonstrate the usage of arrays:
 
+- **Example 1:** Single Dimensional Array  
+- **Example 2:** Multi Dimensional Array  
+- **Example 3:** Array  
+
+Each example is placed in a separate folder with clear and simple code for better understanding.
+
+---
 
 
 
