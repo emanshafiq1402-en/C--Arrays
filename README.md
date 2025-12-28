@@ -78,7 +78,14 @@ The project is organized in a clean and readable structure:
 - Each array type has its own folder
 - Code files are separated for clarity and maintainability
 
+# Version Control
+This project uses GitHub for proper version control.  
+Each major update is committed separately to maintain a clear history of changes and improvements.
 
+Version control helps in:
+- Tracking changes
+- Managing updates
+- Maintaining project history
 
 
 
