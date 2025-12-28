@@ -39,7 +39,27 @@ Arrays are commonly used to store:
 - Names or records
 - Tabular and structured data
 
+# Types of Arrays in C
 
+# Single Dimensional Array
+A single dimensional array stores data in a simple linear format.  
+It is the most basic and commonly used type of array in C#.
+
+Typical use cases:
+- Storing a list of values
+- Iterating through data using loops
+- Basic data processing
+
+---
+
+# Multi Dimensional Array
+A multi dimensional array stores data in the form of rows and columns.  
+It is useful when working with matrix-like or tabular data.
+
+Typical use cases:
+- Mathematical matrices
+- Timetables
+- Grid-based data
 
 
 
