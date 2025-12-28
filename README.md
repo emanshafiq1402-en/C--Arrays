@@ -16,3 +16,25 @@ Each element in an array is identified by an index number.
 In C#, array indexing always starts from **0**.
 
 Using arrays reduces code repetition and improves program readability.
+
+
+# Key Characteristics of Arrays
+- Arrays store multiple values in a single variable
+- All elements must be of the same data type
+- Indexing starts from 0
+- Array size is fixed after creation
+- Arrays provide fast access to stored data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
