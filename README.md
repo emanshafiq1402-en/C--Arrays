@@ -93,7 +93,10 @@ Understanding arrays helps in writing efficient, clean, and professional code.
 This project provides a strong foundation for learning and applying arrays in real applications.
 
 ---
-
+# Author
+Eman Shafiq
+2024-ag-9521
+BS Artificial Intelligence
 
 
 
