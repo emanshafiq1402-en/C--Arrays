@@ -71,6 +71,12 @@ This repository includes three practical C# examples to demonstrate the usage of
 Each example is placed in a separate folder with clear and simple code for better understanding.
 
 ---
+# Project Structure
+The project is organized in a clean and readable structure:
+
+- README.md contains complete theory and documentation
+- Each array type has its own folder
+- Code files are separated for clarity and maintainability
 
 
 
